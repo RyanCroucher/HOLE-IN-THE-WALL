@@ -1,0 +1,37 @@
+HOLE-IN-THE-WALL
+
+A UC Fun Kit v4 game by Ryan Croucher and Jeremy Roberts.
+
+Dodge walls coming from two different directions by moving through the gaps presented. Collect powerups and use them to temporarily clear the board.
+
+CONTROLS:
+
+    Orient the board upright (power cable at the top).
+
+    To start the fun kit, hold S3, then press S2, then release S2 and finally release S3.
+
+    To start the game, press S3.
+
+    GAMEPLAY:
+
+        The navswitch can be moved left, right, up, down to move the player character in the corresponding direction.
+        Walls will move across the screen, in phases, first from top to bottom, then from left to right.
+        Every time the phase switches, the wall movement speed will increase.
+
+        When walls are coming down, the player can wrap around the board from left to right and right to left.
+        When walls are moving across, the player can wrap around the board from top to bottom and bottom to top.
+
+        Move the navswitch to direct your player character through the holes in the walls.
+
+        Periodically, 'powerups' that flash irregularly will appear on the display. Move over these to collect them, and the blue LED will turn on.
+
+        To use the powerup, press S3. This will destroy all walls currently on the board, and light up the screen.
+
+        When the player character comes into contact with a wall, the game will end and the player's score will be displayed.
+
+    To restart the game after a game over, press S3.
+
+Have fun!
+
+        
+
